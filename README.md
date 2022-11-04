@@ -1,10 +1,10 @@
 # Scientific-Computing-with-Python-Projects
-FreeCodeCamp
+## FreeCodeCamp
 
-	This respository contains my solutions for the FreeCodeCamp module.
+### This respository contains my solutions for the FreeCodeCamp module.
 
-	-Arithmetic Formatter
-	-Time Calculator
-	-Budget App
-	-Polygon Area Calculator
-	-Probability Calculator
+- Arithmetic Formatter
+- Time Calculator
+- Budget App
+- Polygon Area Calculator
+- Probability Calculator
