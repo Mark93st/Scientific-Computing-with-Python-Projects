@@ -14,7 +14,7 @@ If the function is given the optional starting day of the week parameter, then t
 
 Below are some examples of different cases the function should handle. Pay close attention to the spacing and punctuation of the results.
 
-    `rgb(9, 105, 218)`add_time("3:00 PM", "3:10")
+    `rgb(9, 105, 218)` add_time("3:00 PM", "3:10")
     # Returns: 6:10 PM
 
     add_time("11:30 AM", "2:32", "Monday")
